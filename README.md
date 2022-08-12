@@ -1,5 +1,5 @@
-### Hi there 👋
-[https://i.imgur.com/57kBnuh.gif](https://i.imgur.com/57kBnuh.gif)
+### About me
+![https://i.imgur.com/57kBnuh.gif](https://i.imgur.com/57kBnuh.gif)
 <!--
 **777Rob/777Rob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
