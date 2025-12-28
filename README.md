@@ -2,8 +2,6 @@
 About me
 </h1>
 
-![https://i.imgur.com/57kBnuh.gif](https://i.imgur.com/57kBnuh.gif)
-
 <h1 align="center">
   :gear: &nbsp;GitHub Stats</h1>
   <br/>
