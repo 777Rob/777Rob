@@ -2,7 +2,7 @@
 About me
 </h1>
 
-![https://imgur.com/a/dRsMB97](https://imgur.com/a/dRsMB97)
+![https://i.imgur.com/PA2S9Wl.png](https://i.imgur.com/PA2S9Wl.png)
 
 <h1 align="center">
   :gear: &nbsp;GitHub Stats</h1>
