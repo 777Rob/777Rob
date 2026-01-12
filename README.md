@@ -2,6 +2,8 @@
 About me
 </h1>
 
+![https://imgur.com/a/dRsMB97](https://imgur.com/a/dRsMB97)
+
 <h1 align="center">
   :gear: &nbsp;GitHub Stats</h1>
   <br/>
